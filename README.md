@@ -60,7 +60,7 @@ top cover
 | 4.7uH Inductor 0603 | 100 | $1.33  | [Link](https://www.aliexpress.com/item/1005004900337516.html)|
 | Tactile Switches Push buttons | 20 | $4.12  | [Link](https://www.aliexpress.com/item/1005006046180384.html)|
 | PRTR5V0U2X ESD protection Diode | 10 | $4.66  | [Link](https://www.aliexpress.com/item/4000580941007.html) |
-| TPA6132A2RTE Headphone Amplifier | 5 | $3.35 | [Link](https://www.aliexpress.com/item/1005006173782133.htm) |
+| TPA6132A2RTE Headphone Amplifier | 5 | $3.35 | [Link](https://www.aliexpress.com/item/1005006173782133.html) |
 | 18650 Lithium Battery | 2 | BDT 510 (~$4.16)  | [Link](https://store.roboticsbd.com/battery-charger/983-18650-generic-37v-li-ion-battery-standard-quality-flat-top-solderable-robotics-bangladesh.html)|
 | TP4056 BMS | 1 | $4.02 | [Link](https://www.aliexpress.com/item/1005009635476640.html)|
 | Rocker Switch | 5 | $5.20  | [Link](https://www.aliexpress.com/item/1005008778176373.html)|
@@ -73,7 +73,7 @@ top cover
 | Top Case                                         | 1        | Printing Legion |  |
 | Bottom Case                                      | 1        | Printing Legion |  |
 | Battery Cover | 1 | Printing Legion | |
-| PCB | 5 | $27.67 | JLCPCB |
+| PCB | 5 | $6.24 | JLCPCB |
 
 # Build/Usage Instruction
 
