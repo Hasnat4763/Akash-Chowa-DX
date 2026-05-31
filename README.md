@@ -67,6 +67,8 @@ top cover
 | Rocker Switch | 5 | $5.20  | [Link](https://www.aliexpress.com/item/1005008778176373.html)|
 | Binding Post | 5 | $6.00 | [Link](https://www.aliexpress.com/item/1005008274414247.html)|
 | Headphone Connector | 10 | $4.45   | [Link](https://www.aliexpress.com/item/32871877936.html)|
+| AM ferrite Antenna | 2 | $10.04   | [Link](https://www.aliexpress.com/item/1005011550262545.html)|
+| Whip SMA Antenna | 1 | $8.93   | [Link](https://www.aliexpress.com/item/1005010114425808.html)|
 | M3 Heat Set Inserts | 30 | $6.13 | [Link](https://www.aliexpress.com/item/1005006071488810.html) |
 | M3 Fasteners | 50 | $6.28 | [Link](https://www.aliexpress.com/item/1005011845940916.html) |
 | Top Case                                         | 1        | Printing Legion |  |
