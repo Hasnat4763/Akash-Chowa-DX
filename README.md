@@ -75,18 +75,28 @@ top cover
 | Battery Cover | 1 | Printing Legion | |
 | PCB | 5 | $6.24 | JLCPCB |
 
-# Build/Usage Instruction
+# How to Build
 
 For impedance control, while ordering from JLCPCB, select the JLC04161H-7628 layer stackup. Also better to import this to the Easyeda Pro and then order as that can get you a few extra discounts.
 
+
 For ordering parts, you can find most components in LCSC but some components may not be available in LCSC so it needs to be bought from 3rd party stores like aliexpress/alibaba.
 
+For the AM antenna its better to source it from an old broken radio, as its hard to find ferrite antennas online and those tend to be very expensive.
 
-For the AM antenna its better to source it from an old broken radio, as its hard to find ferrite antennas online. 
+Also buy parts like the TP4056, binding post and 18650 batteries locally as on aliexpress they tend to be a lot more expensive.
 
-You need a 9:1 Balun to match the impedance of the SMA feed with the long wire antenna you are using.
+Batteries need to be connected in parralel as the tp4056 is a 1S BMS.
 
-Never use the Radio while its plugged into the Mains as it introduces extra noise.
+Connect the switch in series to the TP4056 output's positive terminal and the PCB's positive power input. PCB's negative and TP4056's negative also needs to be connected.
+
+It should look something like this
+
+![assembly instruction](build_instruction.png)
+
+# Antenna/Grounding Suggestion
+
+You can use a 9:1 balun to connect a longwire antenna to the SMA connector.
 
 For grounding you may be able to just lay the wire parallel to the ground for a few meters.
 
