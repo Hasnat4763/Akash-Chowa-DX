@@ -70,10 +70,10 @@ top cover
 | Whip SMA Antenna | 1 | $8.93   | [Link](https://www.aliexpress.com/item/1005010114425808.html)|
 | M3 Heat Set Inserts | 30 | $6.13 | [Link](https://www.aliexpress.com/item/1005006071488810.html) |
 | M3 Fasteners | 50 | $6.28 | [Link](https://www.aliexpress.com/item/1005011845940916.html) |
-| Top Case                                         | 1        | Printing Legion |  |
-| Bottom Case                                      | 1        | Printing Legion |  |
-| Battery Cover | 1 | Printing Legion | |
-| PCB | 5 | $6.24 | JLCPCB |
+| Top Case      | 1 | Printing Legion | [Link](https://printlegion.hackclub.com/) |
+| Bottom Case   | 1 | Printing Legion | [Link](https://printlegion.hackclub.com/) |
+| Battery Cover | 1 | Printing Legion | [Link](https://printlegion.hackclub.com/) |
+| PCB           | 5 | $6.24           | [Link](https://jlcpcb.com/) |
 
 # How to Build
 
