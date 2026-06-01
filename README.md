@@ -92,7 +92,7 @@ Connect the switch in series to the TP4056 output's positive terminal and the PC
 
 It should look something like this
 
-![assembly instruction](build_instruction.png)
+![assembly instruction](Images/build_instruction.png)
 
 # Antenna/Grounding Suggestion
 
